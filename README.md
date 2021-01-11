@@ -1,7 +1,7 @@
 # Capstone-Project-MSME-Advances-BABI
 Capstone project for final submission at Great Lakes Institute of Management
 
-***1.1.	Project Approach ***
+***1.1.	Project Approach***
 The work that we have completed:
 •	Collected more data that was available with the bank for the individuals
 •	Merged data from other sources like, demographic information, account details etc. for further deep analysis 
@@ -12,7 +12,8 @@ The work that we have completed:
 •	Performed EDA on the data to understand the data and to determine any outlier and treatment for the same
 •	Narrowed our choices to Random Forest and XG boost for modeling based our analysis criteria mentioned in detail in modeling section
 •	Also used PCA and SMOTE techniques to understand if the model performance can be improved.
-1.2.	Achievements
+
+***1.2.	Achievements***
 •	Deep dived into various aspects of loans given by the banks to MSME sectors and the important measures that are required while giving the loan.
 •	Early detection of a default in case of these kind of loans helps bank reduce their NPA and overall reducing the impact on the Indian economy.
 •	Early detection by detecting if the customer will go delinquent by identifying the respective customers and effectively reducing the NPA
@@ -21,7 +22,7 @@ The work that we have completed:
 •	Constantly monitoring the already given loans and its health for preventing it into going to NPA. 
 
 
-***2.1.	The present study has been taken up with the following scopes ***
+***2.1.	The present study has been taken up with the following scopes***
 
 •	To understand the performance of the bank in various regions and for individual branches. 
 •	To make a study to understand magnitude of impact of different schemes and specific industry sectors. 
